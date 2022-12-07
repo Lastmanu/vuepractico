@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "0.1.0",
+  "description": "proyecto de webinars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lastmanu/vuepractico.git"
+  },
+  "author": "Manuel Monsalve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lastmanu/vuepractico/issues"
+  },
+  "homepage": "https://github.com/Lastmanu/vuepractico#readme"
+}
